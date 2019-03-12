@@ -1,0 +1,36 @@
+.logo {
+    height: 15%;
+    width: 15%;
+}
+.slogan {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 5px 5px 5px;
+}
+.navbar {
+    font-size: 35px;
+}
+.solgan {
+    font-family: 'Courgette', cursive;
+    margin-right: 15px;
+}
+.text-white {
+    font-family: 'Courgette', cursive;
+
+}
+@media screen and (min-width: 800px) {
+    .logo {
+        height: 5%;
+        width: 5%;
+    }
+    .slogan{
+        justify-content: clear;
+}
+    h3.slogan {
+        margin-right: 300px;
+    }
+    
+    
+}
+
+
