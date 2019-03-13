@@ -1,8 +1,7 @@
 <?php
 include_once('inc/header.php');
 ?>
-<img class="voiture" src="images/Véhicules.jpg" alt="Véhicules">
-<img class="pieces" src="images/Pieces.jpg" alt="Pièces détachées">
+<img class="Véhicules" src="images/Véhicules.jpg" alt="Véhicules">
 
 <?php
 include_once('inc/footer.php');

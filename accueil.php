@@ -1,1 +1,0 @@
-<img class="Véhicules" src="images/Véhicules.jpg" alt="Véhicules">
