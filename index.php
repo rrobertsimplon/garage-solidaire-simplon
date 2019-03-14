@@ -4,7 +4,7 @@ include_once('inc/header.php');
 
 <section class="acceuil">
     <div >
-    <img class="img" src="Images/first.jpg" alt="" >
+    <img class="img" src="images/first.jpg" alt="" >
 </div>
 <h1>Quelques informations sur les ventes..</h1>
 <hr>
