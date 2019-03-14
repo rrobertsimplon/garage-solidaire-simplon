@@ -7,6 +7,7 @@ include_once('inc/header.php');
 <img src="images/first.jpg" alt="accueil">
 </div>
 <h1>Quelques informations sur les ventes..</h1>
+<hr>
 <p>Origine de nos véhicules</p>
 <ul>
     <li>Tout d’abord, grâce aux relations étroites qu’elle entretient avec de nombreux garages Lillois,
@@ -15,6 +16,11 @@ include_once('inc/header.php');
     <li>Enfin, notre entreprise récupère de nombreux dons de particuliers. Ces dons encouragent nos actions et profitent à de nombreuses familles.</li>
 </ul>
 
+<h3>Nos objectifs</h3>
+<ul>
+
+<li>Nos objectifs sont doubles : sécuriser tous les véhicules que nous mettons en vente tout en offrant des prix les plus bas possibles à nos clients.</li>
+</ul>
 </section>
 <?php
 include_once('inc/footer.php');
