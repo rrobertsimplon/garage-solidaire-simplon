@@ -1,10 +1,19 @@
 @import 'header';
 @import 'acceuil';
+@import 'contact';
 
 
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.acceuil {
+    margin: 40px 5% 10% 5%;
+}
+.img {
+    width: 100%;
+    height: 300px;
 }
 

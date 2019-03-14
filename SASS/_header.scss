@@ -19,6 +19,10 @@
     
 
 }
+.acceuil {
+    margin-right: 5%;
+    margin-left: 5%;
+}
 @media screen and (min-width: 800px) {
     .logo {
         height: 5%;
@@ -30,8 +34,15 @@
     h3.slogan {
         margin-right: 300px;
     }
-    
+   
     
 }
+@media screen and (max-width: 800px) {
+    .img {
+        display: none;
+    }
+    
 
+
+}
 
