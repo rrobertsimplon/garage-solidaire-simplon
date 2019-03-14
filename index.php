@@ -15,6 +15,8 @@ include_once('inc/header.php');
     <li>Enfin, notre entreprise récupère de nombreux dons de particuliers. Ces dons encouragent nos actions et profitent à de nombreuses familles.</li>
 </ul>
 
+<p>lol</p>
+
 </section>
 <?php
 include_once('inc/footer.php');
