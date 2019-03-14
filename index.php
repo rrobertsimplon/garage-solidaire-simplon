@@ -4,7 +4,7 @@ include_once('inc/header.php');
 
 <section>
     <div class="container-fluid">
-
+    <img src="images/first.jpg" alt="">
 </div>
 <h1>Quelques informations sur les ventes..</h1>
 <p>Origine de nos véhicules</p>
@@ -15,7 +15,7 @@ include_once('inc/header.php');
     <li>Enfin, notre entreprise récupère de nombreux dons de particuliers. Ces dons encouragent nos actions et profitent à de nombreuses familles.</li>
 </ul>
 
-<p>lol</p>
+
 
 </section>
 <?php
