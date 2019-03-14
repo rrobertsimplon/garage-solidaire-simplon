@@ -6,7 +6,7 @@ include_once('inc/header.php');
        <div class="Back">
             <i class="fa fa-arrow-left" onclick="Back()"></i>
         </div>
-        <p class="h2 text-center">Form</p>
+        <p class="h2 text-center">Formulaire de contact</p>
         <form action="" method="post">
             <div class="preview text-center">
             
