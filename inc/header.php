@@ -22,13 +22,13 @@
 <div class="pos-f-t">
             <div class="collapse" id="navbarToggleExternalContent">
                 <div class="bg-dark p-4">
-                    <a href="#"><h5 class="text-white h4"><i class="fas fa-home"></i></h5></a>
+                    <a href="header.php"><h5 class="text-white h4"><i class="fas fa-home"></i></h5></a>
                     <br>
-                    <a href="#"><span class="text-white h4">Services</span></a>
+                    <a href="services.php"><span class="text-white h4">Services</span></a>
                     <br><br>
-                    <a href="#"><span class="text-white h4">A propos</span></a>
+                    <a href="about.php"><span class="text-white h4">A propos</span></a>
                     <br><br>
-                    <a href="#"><span class="text-white h4">Contact</span></a>
+                    <a href="contact.php"><span class="text-white h4">Contact</span></a>
                 </div>
             </div>
                     <nav class="navbar navbar-dark d-flex justify-content-end">

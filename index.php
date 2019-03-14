@@ -4,7 +4,7 @@ include_once('inc/header.php');
 
 <section>
     <div class="container-fluid">
-
+<img src="images/first.jpg" alt="accueil">
 </div>
 <h1>Quelques informations sur les ventes..</h1>
 <p>Origine de nos véhicules</p>
