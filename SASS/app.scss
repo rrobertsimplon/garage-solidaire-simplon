@@ -19,7 +19,13 @@ body {
     height: 300px;
 }
 
-h1,h3, p {
+h1,h3, p, h4 {
     text-align: center;
 }
 
+h1, h3 {
+    font-family: 'Courgette', cursive;
+}
+p {
+    font-family: 'Arial Narrow', Arial, serif;
+}

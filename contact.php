@@ -6,7 +6,7 @@ include_once('inc/header.php');
        <div class="Back">
             <i class="fa fa-arrow-left" onclick="Back()"></i>
         </div>
-        <p class="h2 text-center">Formulaire de contact</p>
+        <h1 class="h2 text-center">Formulaire de contact</h1>
         <form action="" method="post">
             <div class="preview text-center">
             
@@ -14,18 +14,18 @@ include_once('inc/header.php');
                 
                 </div>
             <div class="form-group">
-                <label>Nom + Prénom</label>
-                <input class="form-control" type="text" name="fullname" required placeholder="Enter Your Full Name"/>
+                <label>Nom & Prénom</label>
+                <input class="form-control" type="text" name="fullname" required placeholder="Nom & prénom"/>
                 <span class="Error"></span>
             </div>
             <div class="form-group">
                 <label>Email</label>
-                <input class="form-control" type="email" name="email" required placeholder="Enter Your Email"/>
+                <input class="form-control" type="email" name="email" required placeholder="Email"/>
                 <span class="Error"></span>
             </div>
             <div class="form-group">
                 <label>Mot de passe</label>
-                <input class="form-control" type="password" name="password" required placeholder="Enter Password"/>
+                <input class="form-control" type="password" name="password" required placeholder="Mot de passe"/>
                 <span class="Error"></span>
             </div>
             <div class="form-group">
@@ -36,7 +36,7 @@ include_once('inc/header.php');
                 <span class="Error"></span>
             </div>
             <div class="form-group">
-                <input class="btn btn-primary btn-block" type="submit" value="Submit"/>
+                <input class="btn btn-primary btn-block" type="submit" value="Envoyer"/>
             </div>
         </form>
     </div>
